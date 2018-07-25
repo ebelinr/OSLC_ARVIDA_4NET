@@ -1,0 +1,11 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/obj/Debug
+/.vs
+/.vs/oslcRDFHandling/v15/.suo
+/.vs/oslcRDFHandling/v15/sqlite3
+/bin
+/obj/Release
+/git.txt

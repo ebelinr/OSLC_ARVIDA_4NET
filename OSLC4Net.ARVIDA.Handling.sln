@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSLC4Net.ARVIDA.Handling", "OSLC4Net.ARVIDA.Handling.csproj", "{57ED192A-218F-4F6B-B240-CF317B52721C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57ED192A-218F-4F6B-B240-CF317B52721C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57ED192A-218F-4F6B-B240-CF317B52721C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57ED192A-218F-4F6B-B240-CF317B52721C}.Debug|x64.ActiveCfg = Debug|x64
+		{57ED192A-218F-4F6B-B240-CF317B52721C}.Debug|x64.Build.0 = Debug|x64
+		{57ED192A-218F-4F6B-B240-CF317B52721C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57ED192A-218F-4F6B-B240-CF317B52721C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57ED192A-218F-4F6B-B240-CF317B52721C}.Release|x64.ActiveCfg = Release|x64
+		{57ED192A-218F-4F6B-B240-CF317B52721C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F00A777-9CB2-4354-A5D5-DA5B33456543}
+	EndGlobalSection
+EndGlobal
